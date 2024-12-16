@@ -1,1 +1,1 @@
-FROM prestosql/presto
+FROM prestodb/presto:0.290
